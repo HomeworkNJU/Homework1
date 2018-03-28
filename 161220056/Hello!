@@ -1,0 +1,6 @@
+#include <iostream>
+int mian
+{
+  cout << "Hello, World!" << endle;
+  return 0;
+}
